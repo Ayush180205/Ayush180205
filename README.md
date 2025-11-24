@@ -1,4 +1,4 @@
-# 🚀 Ayush | Web Developer • ENTC Learner • Builder of Cool Stuff
+# 🚀 Ayush | Web Developer • Builder of Cool Stuff
 
 *"Turning caffeine into interfaces and ideas into shipped features."*
 
