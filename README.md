@@ -16,37 +16,24 @@ I keep things lean, elegant, and brutally realistic—because life’s too short
 
 I’m still learning, still exploring, still hungry.  
 And honestly? That’s my superpower.
-
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
 
-<div align="center">
+  <!-- Languages Box -->
+  <div style="border: 2px solid #4f46e5; border-radius: 14px; padding: 22px; width: 280px;">
+    <h3>🚀 Languages</h3>
+    <img src="https://skillicons.dev/icons?i=java,ts,js,py,go,rust" height="45" />
+  </div>
 
-### 🚀 Languages  
-<img src="https://skillicons.dev/icons?i=java,ts,js,py" height="45" />
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,graphql,html,css" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="45"/>
-
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,rust" height="45" />
-
-### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="45" />
-
-### 🤖 Machine Learning  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
-
-### 🎭 UI / UX  
-<img src="https://skillicons.dev/icons?i=figma,canva,framer" height="45" />
-
-### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,aws,linux" height="45" />
+  <!-- Tools Box -->
+  <div style="border: 2px solid #16a34a; border-radius: 14px; padding: 22px; width: 280px;">
+    <h3>🧰 Tools & Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs" height="45" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="45" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,graphql,figma" height="45" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,aws,linux" height="45" />
+  </div>
 
 </div>
 
