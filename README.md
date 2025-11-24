@@ -19,76 +19,34 @@ And honestly? That’s my superpower.
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-  <!-- Programming Languages -->
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java" height="55" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" />
+### 🚀 Languages  
+<img src="https://skillicons.dev/icons?i=java,ts,js,py" height="45" />
 
-  <br/><br/>
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,graphql,html,css" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="45"/>
 
-  <!-- Frontend -->
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react" height="55" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="55" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" />
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,rust" height="45" />
 
-  <br/><br/>
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="45" />
 
-  <!-- Backend -->
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
-  <img src="https://skillicons.dev/icons?i=go" height="55" />
-  <img src="https://skillicons.dev/icons?i=rust" height="55" />
+### 🤖 Machine Learning  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
 
-  <br/><br/>
+### 🎭 UI / UX  
+<img src="https://skillicons.dev/icons?i=figma,canva,framer" height="45" />
 
-  <!-- Databases -->
-  <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
-
-  <br/><br/>
-
-  <!-- Machine Learning -->
-  <h3>Machine Learning</h3>
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55"/>
-
-  <br/><br/>
-
-  <!-- UI/UX & Design -->
-  <h3>Design & UI/UX</h3>
-  <img src="https://skillicons.dev/icons?i=figma" height="55" />
-  <img src="https://skillicons.dev/icons?i=canva" height="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" />
-  <img src="https://skillicons.dev/icons?i=framer" height="55" />
-
-  <br/><br/>
-
-  <!-- Tools -->
-  <h3>Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=vsCode" height="55" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" />
-  <img src="https://skillicons.dev/icons?i=postman" height="55" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" />
+### 🧰 Tools  
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,aws,linux" height="45" />
 
 </div>
+
