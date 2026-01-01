@@ -5,7 +5,7 @@
 ---
 
 ## 🌱 About Me  
-’m Ayush — a student by title, a builder by instinct.  
+I’m Ayush — a student by title, a builder by instinct.  
 I don’t chase trends; I chase what *works*.  
 I ship sharp UIs, sturdy backends, and ideas that don’t sit quietly in notebooks.
 
